@@ -30,8 +30,12 @@
 		list-style: none;
 	}
 
-	#specialList {
+	.specialList {
 		list-style: circle;
+	}
+
+	#leftBox {
+		float: left;
 	}
 
 	blockquote, q {
