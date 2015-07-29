@@ -30,6 +30,10 @@
 		list-style: none;
 	}
 
+	#specialList {
+		list-style: circle;
+	}
+
 	blockquote, q {
 		quotes: none;
 	}
