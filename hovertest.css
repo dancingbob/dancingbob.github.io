@@ -1,0 +1,11 @@
+.over{
+  background-color: skyblue;
+  height: 50px;
+  width: 50px;
+  padding:5px;
+  margin:5px;
+  float:left;
+}
+.hover{
+  background-color: pink;
+}

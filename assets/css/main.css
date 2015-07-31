@@ -36,6 +36,13 @@
 
 	#leftBox {
 		float: left;
+		max-width: 50%;
+		padding: 5%;
+	}
+	#rightBox {
+		float: right;
+		max-width: 50%;
+		padding: 5%;
 	}
 
 	blockquote, q {
